@@ -1,2 +1,3 @@
 # Education-Post-12th-Data-Analysis
-Data Analysis Project
+Data Science Project
+
